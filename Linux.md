@@ -22,4 +22,4 @@ From Kunal's [video](https://youtu.be/iwolPf6kN-k).
 | echo | echoes the text |
 | echo "text goes here" file_name | content is written into the file |
 | man command_name | details about the command |
-| cat file1 | tr a-z A-Z > file2| perform tasks on the files contents |
+| cat file1 \| tr a-z A-Z > file2 | performs tasks(here translate lower-case to upper-case) on the files contents |
