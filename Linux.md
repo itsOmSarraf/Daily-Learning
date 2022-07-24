@@ -29,4 +29,4 @@ From Kunal's [video](https://youtu.be/iwolPf6kN-k).
 | mv file1 directory_1 or file2 | moves the file to new directory or renames the file |
 | mv file1 ../file2 | renames the file 1 as file2 and changes the final location as well |
 | rm file1 | removes file1 permanently and not in the bin |
-| cp -R directory1 directory2 | directory1 is copied into directory2 
+| cp -R directory1 directory2 | directory1 is copied into directory2 |
