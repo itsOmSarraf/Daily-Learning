@@ -17,3 +17,9 @@ From Kunal's [video](https://youtu.be/iwolPf6kN-k).
 | open . | opens current directory |
 | mkdir | makes a directory |
 | ls -R | lists all files in sub-directory |
+| cat | concatenate (list all contenets of the file) |
+| cat file1 file2 > file3 | all data is merged into file3 |
+| echo | echoes the text |
+| echo "text goes here" file_name | content is written into the file |
+| man command_name | details about the command |
+| cat file1 | tr a-z A-Z > file2| perform tasks on the files contents |
