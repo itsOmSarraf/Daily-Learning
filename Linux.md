@@ -26,7 +26,13 @@ From Kunal's [video](https://youtu.be/iwolPf6kN-k).
 | use \ | for chaining commands |
 | touch filename | create files |
 | cp file1 file2 | cop file1 as file2 |
-| mv file1 directory_1 or file2 | moves the file to new directory or renames the file |
+| mv director2 or file1 directory_2 or file2 | moves the file to new directory or renames the file |
 | mv file1 ../file2 | renames the file 1 as file2 and changes the final location as well |
 | rm file1 | removes file1 permanently and not in the bin |
 | cp -R directory1 directory2 | directory1 is copied into directory2 |
+| rm -R directory1 | deletes the directory |
+| rm -f file | deleted the file forecully even if it open, etc |
+| sudo command | Super User DO, for admin permissions |
+| df | free disk space |
+| du | disk usage stats |
+| head |
