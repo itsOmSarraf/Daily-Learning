@@ -3,9 +3,9 @@
 <img src="https://github.com/itsOmSarraf/Daily-Learning/blob/main/resources/png-clipart-penguin-linux-tux-computer-software-svg-gallery-computer-vertebrate-removebg-preview.png" width="128"/>
 
 From Kunal's [video](https://youtu.be/iwolPf6kN-k).
-
-| pwd | present working directory |
+|    Command   |    Function   |
 |    :----:   |    :----:   |
+| pwd | present working directory |
 | ls | list |
 | open.. | open last directory |
 | ls -a | hidden files |
