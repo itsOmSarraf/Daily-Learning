@@ -1,10 +1,10 @@
 <h1>Day1</h1>
 <h2>Linux Commands</h2>
 
-![Tux, the Linux mascot](https://en.wikipedia.org/wiki/File:Tux.svg)
 From Kunal's [video](https://youtu.be/iwolPf6kN-k).
 
 | pwd | present working directory |
+|    :----:   |    :----:   |
 | ls | list |
 | open.. | open last directory |
 | ls -a | hidden files |
