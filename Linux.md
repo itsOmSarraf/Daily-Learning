@@ -83,6 +83,7 @@ st part of the file ( enter number of lines after n ) |
 
 <h2>shortcuts :</h2>
 
+
 | shortcut | function |
 |    :----:   |    :----:   |
 | ctrl+a | move to beginning |
@@ -95,4 +96,4 @@ st part of the file ( enter number of lines after n ) |
 | clear or ctrl+l | clears everything |
 | command1 ;command2 ;command3 | to write multiple commands in single line |
 
-Note(Search your self on google): ViM,regex commands,telnet,ssh,etc etc.
+Note (Search yourself on google): ViM,regex commands,telnet,ssh,etc etc.
