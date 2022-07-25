@@ -3,6 +3,9 @@
 <img src="https://github.com/itsOmSarraf/Daily-Learning/blob/main/resources/png-clipart-penguin-linux-tux-computer-software-svg-gallery-computer-vertebrate-removebg-preview.png" width="128"/>
 
 From Kunal's [video](https://youtu.be/iwolPf6kN-k).
+
+check " man command_name " to get more filtrs of the commands 
+
 |    Command   |    Function   |
 |    :----:   |    :----:   |
 | pwd | present working directory |
@@ -40,4 +43,8 @@ From Kunal's [video](https://youtu.be/iwolPf6kN-k).
 | diff file1 file2 | compares the content of both the files line by line and outputs the lines that don't match |
 | locate "x.txt" | finds all txt files or whatver criteria in the " " |
 | find -type | search for files in a directory of a particular type |
-|
+| chmod =rwx,g=rx,o=r file1 | change file permissions: 3 types : Read(r)=4 , Write(w)=2 , Execute(x)=1 ; 
+3 types of people who use computer : User(u) , Group(g) , Others(o) |
+| whoami | prints user id |
+| sudo chown root file1 | change root permissions of file |
+|  |  |
