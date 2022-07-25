@@ -47,4 +47,5 @@ check " man command_name " to get more filtrs of the commands
 3 types of people who use computer : User(u) , Group(g) , Others(o) |
 | whoami | prints user id |
 | sudo chown root file1 | change root permissions of file |
-|  |  |
+| grep "what to search" file1 | to search something in files |
+| 
