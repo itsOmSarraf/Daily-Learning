@@ -70,6 +70,15 @@ st part of the file ( enter number of lines after n ) |
 | netstat | details about ports |
 | sed | stream editor for filetering and transforming text |
 | cut | cut out selected portions of each line of a file |
+| htop | check all the resources curently being used |
+| ps | report a snapshot of current processes |
+| command1 && command2 | only when command1 is successful then command2 will be executed | 
+| command1 || command2 | only when command1 fails then command2 will be executed | 
+| command1 \| command2 | will send command1 outpur as command2 input |
+| !(file1) | all files except file1 |
+| data >> file1 | for appending |
+| data > file1 | for over-writing |
+| { } | combination operator, used to group commands |
 
 
 <h2>shortcuts :</h2>
