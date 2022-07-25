@@ -38,7 +38,8 @@ check " man command_name " to get more filtrs of the commands
 | sudo command | Super User DO, for admin permissions |
 | df | free disk space |
 | du | disk usage stats |
-| head -n file1 | display the first part of the file ( enter number of lines after n ) |
+| head -n file1 | display the fir
+st part of the file ( enter number of lines after n ) |
 | tail -n file1 | display the last part of the file ( enter number of lines after n ) |
 | diff file1 file2 | compares the content of both the files line by line and outputs the lines that don't match |
 | locate "x.txt" | finds all txt files or whatver criteria in the " " |
@@ -48,4 +49,41 @@ check " man command_name " to get more filtrs of the commands
 | whoami | prints user id |
 | sudo chown root file1 | change root permissions of file |
 | grep "what to search" file1 | to search something in files |
-| 
+| history | list of all commands used till now |
+|sort file1 | returns result in sorted order |
+| jobs | displays all processes |
+| wget | download files from internet |
+| top | runing processes |
+| uname | print system information |
+| zip files.zip file1 file2 | zips the file |
+| unzip file.zip | unzippes file.zip |
+| hostname | gets the host name |
+| useradd username | adds user |
+| passwd username | adds password |
+| userdel username | deletes user |
+| lscpu | cpu details |
+| free | free memory left |
+| vmstat | virtual memory stat |
+| getent group group_name | get entries about groups |
+| lsof | list open files |
+| nslookup | ip address of a domain |
+| netstat | details about ports |
+| sed | stream editor for filetering and transforming text |
+| cut | cut out selected portions of each line of a file |
+
+
+<h2>shortcuts :</h2>
+
+| shortcut | function |
+|    :----:   |    :----:   |
+| ctrl+a | move to beginning |
+| ctrl+e | move to end |
+| tab | autocomplete |
+| ctrl+k | removes everything after cursor |
+| up down arrows | to view previous commands |
+| !command_number (from history) | run the command number mentioned in the history |
+| ctrl+r | search previous commands |
+| clear or ctrl+l | clears everything |
+| command1 ;command2 ;command3 | to write multiple commands in single line |
+
+Note(Search your self on google): ViM,regex commands,telnet,ssh,etc etc.
