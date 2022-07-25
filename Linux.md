@@ -35,4 +35,9 @@ From Kunal's [video](https://youtu.be/iwolPf6kN-k).
 | sudo command | Super User DO, for admin permissions |
 | df | free disk space |
 | du | disk usage stats |
-| head |
+| head -n file1 | display the first part of the file ( enter number of lines after n ) |
+| tail -n file1 | display the last part of the file ( enter number of lines after n ) |
+| diff file1 file2 | compares the content of both the files line by line and outputs the lines that don't match |
+| locate "x.txt" | finds all txt files or whatver criteria in the " " |
+| find -type | search for files in a directory of a particular type |
+|
