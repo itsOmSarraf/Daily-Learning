@@ -1,10 +1,9 @@
-<h1>Day1</h1>
-<h2>Linux Commands</h2>
+<h1>Linux Commands</h1>
 <img src="https://github.com/itsOmSarraf/Daily-Learning/blob/main/resources/png-clipart-penguin-linux-tux-computer-software-svg-gallery-computer-vertebrate-removebg-preview.png" width="128"/>
 
 From Kunal's [video](https://youtu.be/iwolPf6kN-k).
 
-check " man command_name " to get more filtrs of the commands 
+check " man command_name " to get more filter/features of the commands. 
 
 |    Command   |    Function   |
 |    :----:   |    :----:   |
