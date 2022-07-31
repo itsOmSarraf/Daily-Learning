@@ -1,0 +1,34 @@
+  .amz {
+    color: rgb(0, 113, 133);
+  }
+  .nike {
+    font-size: 30px;
+    font-weight: bold;
+  }
+  .stock {
+    color: rgb(0, 118, 0);
+    font-weight: bold;
+    font-size: 20px;
+  }
+  .free-delivery {
+    color: black;
+    font-size: 20px;
+  }
+  .add-cart {
+    background-color: rgb(255, 216, 20);
+    color: black;
+    height: 40px;
+    border-radius: 20px;
+    width: 150px;
+    border: none;
+    font-size: 17px;
+  }
+  .buy-now {
+    background-color: rgb(255, 164, 28);
+    height: 40px;
+    width: 150px;
+    border-radius: 20px;
+    color: black;
+    border: none;
+    font-size: 17px;
+  }
