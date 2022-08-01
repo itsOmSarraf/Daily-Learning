@@ -1,0 +1,11 @@
+.div-red-box {
+  width: 50px;
+  height: 50px;
+  background-color: red;
+}
+.div-green-box {
+  width: 50px;
+  height: 50px;
+  background-color: green;
+  border-radius: 100px;
+}

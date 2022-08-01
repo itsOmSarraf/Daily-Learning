@@ -1,0 +1,18 @@
+p {
+  font-family: Arial;
+}
+.review-div {
+  border: solid;
+  border-width: 1px;
+  border-color: grey;
+}
+.btn-y {
+  margin-bottom: 20px;
+  margin-left: 20px;
+}
+.btn-n {
+  margin-bottom: 20px;
+}
+.txt {
+  margin-left: 20px;
+}
