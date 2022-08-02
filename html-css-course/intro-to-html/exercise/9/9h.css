@@ -1,15 +1,12 @@
-.google {
-  vertical-align: middle;
-  margin: auto;
+div {
   text-align: center;
 }
-.logo {
-  width: 300px;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+img{
+  width: 400px;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
-.search {
+input {
   margin-top: 20px;
   margin-left: auto;
   margin-right: auto;
@@ -21,7 +18,7 @@
   font-size: 20px;
   border-radius: 1200px;  
 }
-.button-lf {
+.g-button {
   padding: 10px;
   margin-top: 80px;
   display: inline-block;
@@ -29,14 +26,8 @@
   padding-left: 20px;
   padding-right: 20px;
   cursor: pointer;
+  font-size: 15px;
 }
-.button-gs {
-  padding: 10px;
-  margin-top: 80px;
-  display: inline-block;
-  border: none;
-  padding-left: 20px;
-  padding-right: 20px;
-  cursor: pointer;
+.lf {
   margin-left: 10px;
 }
