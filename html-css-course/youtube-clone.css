@@ -17,7 +17,7 @@ p {
 .div-example {
   display: inline-block;
 }
-.video-preview {
+.video-preview{
   width: 300px;
   display: inline-block;
   vertical-align: top;
@@ -43,4 +43,7 @@ p {
 }
 .thumbnail-row {
   margin-bottom: 12px;
+}
+.search-bar {
+  display: block;
 }
