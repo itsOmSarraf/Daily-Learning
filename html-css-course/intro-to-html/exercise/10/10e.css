@@ -22,6 +22,7 @@ p {
 .count-div {
   display: inline-block;
   vertical-align: top;
+  margin-top: 9px;
 } 
 .add-friend {
   border: none;
@@ -30,6 +31,8 @@ p {
   background-color: rgb(46, 119, 253);
   border-radius: 4px;
   margin-bottom: 10px;
+  cursor: pointer;
+  margin-top: 7px;
 }
 .profile {
   margin-left: 10px;
@@ -42,6 +45,6 @@ p {
   margin-top: 5px;
 }
 .count {
-  margin-top: 4px;
   color: grey;
+  margin-left: 3px;
 }
