@@ -1,0 +1,60 @@
+p {
+  font-family: Arial;
+  margin: 0;
+}
+.profile-div{
+  width: 500px;
+  height: 100px;
+}
+.pfp {
+  width: 60px;
+  border-radius: 100px;
+  height: 60px;
+  object-fit: cover;
+  margin-top: 20px;
+}
+.pfp-div {
+  display: inline-block;
+  margin-right: 15px;
+  margin-left: 5px;
+  margin-bottom: 20px;
+}
+.follow {
+  display: inline-block;
+  vertical-align: top;
+  margin-left: 120px;
+}
+.follow-button {
+  background-color: rgb(0, 149, 255);
+  color: white;
+  font-weight: bold;
+  border-radius: 4px;
+  padding: 10px;
+  border: none;
+  font-size: 20px;
+  padding-left: 15px;
+  padding-right: 15px; 
+  cursor: pointer;
+  margin-top: 27px;
+}
+.profile-info {
+  display: inline-block;
+  font-size: 13px;
+  margin-right: 120px;
+  vertical-align: top;
+}
+.name{
+  font-weight: bold;
+  font-size: 20px;
+  margin-top: 8px;
+}
+.title {
+  margin-top: 5px;
+  color: grey;
+  font-size: 22px;
+}
+.popular {
+  color: grey;
+  font-size: 18px;
+  margin-top: 5px;
+}
