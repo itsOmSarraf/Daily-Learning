@@ -1,0 +1,39 @@
+.header {
+  background-color: rgb(177, 68, 177);
+  border: solid;
+  color: white;
+  height: 50px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  font-family: Arial;
+}
+.left-section {
+  width: 100px;
+  margin: 10px;
+  margin-left: 20px;
+  margin-top: 15px;
+  font-weight: bold;
+}
+.middle-section {
+  flex: 1;
+  border-radius: 30px;
+  padding: 10px;
+  max-width: 600px;
+  border: solid;
+  border-color: white;
+  margin: 6px;
+}
+.right-section {
+  color: white;
+  font-size: 16px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: white;
+  border-radius: 2px;
+  padding: 8px;
+  background-color: transparent;
+  margin: 5px;
+  padding-right: 12px;
+  padding-left: 12px;
+}
