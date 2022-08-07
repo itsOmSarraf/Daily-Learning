@@ -35,6 +35,7 @@ div {
   height: 100px;
   background-color: rgb(220, 220, 220);
   margin-right: 10px;
+  flex-shrink: 0;
 }
 .tweet-header {
   display: flex;
