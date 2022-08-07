@@ -1,6 +1,13 @@
 div {
   font-family: Arial;
 }
+.container {
+  display: flex;
+  flex-direction: row;
+  width: 420px;
+  margin-top: 10px;
+  margin-left: 20px;
+}
 .pfp-container {
   margin-right: 10px;
 }
@@ -10,32 +17,8 @@ div {
   border-radius: 30px;
   object-fit: cover;
 }
-.container {
-  display: flex;
-  flex-direction: row;
-  width: 420px;
-  margin-top: 10px;
-  margin-left: 20px;
-}
-.yt-container {
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  border-width: 1px;
-  border-style: solid;
-  border-color: rgb(200, 200, 200);
-  border-radius: 15px;
-  overflow: hidden;
-}
-.video-info-column {
-  flex 1;
-}
-.thumbnail-column {
-  width: 100px;
-  height: 100px;
-  background-color: rgb(220, 220, 220);
-  margin-right: 10px;
-  flex-shrink: 0;
+.tweet-container{
+  flex: 1;
 }
 .tweet-header {
   display: flex;
@@ -53,7 +36,30 @@ div {
   line-height: 20px;
   margin-bottom: 15px;
 }
-.tweet {
-  line-height: 20px;
-  margin-bottom: 15px;
+.yt-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(200, 200, 200);
+  border-radius: 15px;
+  overflow: hidden;
+}
+.thumbnail-column {
+  width: 100px;
+  height: 100px;
+  background-color: rgb(220, 220, 220);
+  margin-right: 10px;
+  flex-shrink: 0; 
+}
+.video-info-column {
+  flex 1;
+}
+.video-website {
+  color: rgb(111, 111, 111);
+  margin-bottom: 3px;
+}
+.video-title {
+  line-height: 22px;
 }
