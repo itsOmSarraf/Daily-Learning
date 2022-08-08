@@ -73,6 +73,7 @@
   padding-right: 8px;
   border-radius: 2px;
   font-size: 12px;
+  
   bottom: -30px;
   opacity: 0;
   transition: opacity 0.1s;
@@ -145,4 +146,7 @@
   height: 32px;
   border-radius: 18px;
   margin-right: 20px;
+}
+.chnl-name {
+  
 }
