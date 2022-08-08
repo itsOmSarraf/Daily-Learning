@@ -52,3 +52,7 @@
   padding: 4px;
   border-radius: 2px;
 }
+.video-title-link {
+  text-decoration: none;
+  color: black;
+}
