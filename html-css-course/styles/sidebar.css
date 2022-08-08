@@ -5,5 +5,23 @@
   top: 55px; 
   background-color: white;
   width: 72px;
-  border-right-style: solid;
+}
+.sidebar-link {
+  height: 76px;
+  display: flex;
+  align-items: center; /* for vertical centering*/
+  justify-content: center; /* for horizontal centering*/
+  flex-direction: column;
+}
+.sidebar-link:hover {
+  background-color: rgb(235, 235, 235);
+  cursor: pointer;
+}
+.sidebar-link img{
+  height: 24px;
+}
+.sidebar-link div {
+  margin-top: 4px;
+  font-family: Roboto,Arial;
+  font-size: 10px;
 }
