@@ -1,0 +1,26 @@
+.box {
+  width: 320px;
+  height: 180px;
+  background-color: grey;
+  position: fixed;
+  bottom: 10px;
+  right: 10px;
+}
+.cross {
+  color: white;
+  background-color: black;
+  position: absolute;
+  font-family: Arial;
+  font-size: 30px;
+  width: 45px;
+  height: 45px;
+  border-radius: 25px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  top: -20px;
+  left: -18px;
+}
+body {
+  height: 3000px;
+}

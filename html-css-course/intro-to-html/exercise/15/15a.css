@@ -1,0 +1,17 @@
+.cross {
+  background-color: black;
+  color: white;
+  position: absolute;
+  border-radius: 0px;
+  padding-left: 13px;
+  padding-right: 13px;
+  font-size: 30px;
+  border-radius: 20px;
+  padding-bottom: 5px;
+  font-family: Arial;
+  font-weight: 20px;
+  right: 10px;
+}
+body  {
+  height: 3000px;
+}
