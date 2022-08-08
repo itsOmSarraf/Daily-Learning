@@ -5,9 +5,12 @@
   top: 55px; 
   background-color: white;
   width: 72px;
+  z-index: 101;
+  padding-top: 5px;
+  
 }
 .sidebar-link {
-  height: 76px;
+  height: 74px;
   display: flex;
   align-items: center; /* for vertical centering*/
   justify-content: center; /* for horizontal centering*/

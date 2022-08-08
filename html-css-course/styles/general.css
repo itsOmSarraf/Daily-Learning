@@ -7,4 +7,6 @@ body {
   margin: 0;
   padding-top: 80px;
   padding-left: 100px;
+  padding-right: 24px;
+  background-color: rgb(249, 249, 249);
 }
