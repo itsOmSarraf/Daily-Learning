@@ -64,7 +64,6 @@
   position: absolute;
   right: 8px;
   bottom: 5px;
-  font-family: Roboto,Arial;
   font-size: 12px;
   font-weight: 600;
   padding: 4px;
@@ -80,7 +79,6 @@
 }
 .overlay {
   display: flex;
-  font-family: Roboto,Arial;
 }
 .channel-container .overlay {
   position: absolute;
