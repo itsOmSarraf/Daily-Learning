@@ -76,6 +76,7 @@
 
 .channel-container {
   position: relative;
+  display: inline-block;
 }
 .overlay {
   display: flex;
