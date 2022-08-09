@@ -9,5 +9,10 @@ body {
   padding-top: 80px;
   padding-left: 100px;
   padding-right: 24px;
-  background-color: rgb(249, 249, 249);
+  background-color: rgb(241, 241, 241);
+}
+@media (min-width: 1200.1px) {
+  body {
+    margin-left: 168px;
+  }
 }
